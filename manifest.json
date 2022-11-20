@@ -45,12 +45,12 @@
         "timestamp": "2022-11-20T11:55:55Z",
         "versions": [
             {
-                "version": "1.0.0.0",
+                "version": "1.0.0.1",
                 "changelog": "### Initial release version\n",
                 "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://github.com/bennystarfighter/jellyfin-subtitle-sorter/releases/download/v1.0.0.0/subtitle-sorter_1.0.0.0.zip",
-                "checksum": "c0f0c9d6d8206b5335b8ee56e1279f0b",
-                "timestamp": "2022-11-20T11:55:55Z"
+                "sourceUrl": "https://github.com/bennystarfighter/jellyfin-subtitle-sorter/releases/download/v1.0.0.1/subtitle-sorter_1.0.0.0.zip",
+                "checksum": "1c5a0818078c65f163297c6cda571118",
+                "timestamp": "2022-11-20T12:35:49Z"
             }
         ]
     }
